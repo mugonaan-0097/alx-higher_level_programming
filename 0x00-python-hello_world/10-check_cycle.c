@@ -2,7 +2,7 @@
 
 /**
  * check_cycle - check if singly linked list has cycle in it
- * @list: points to a struct of type listint_t
+ * @list: linked list to check
  * Return: 0 if there is no cycle, 1 if there is a cycle
  */
 int check_cycle(listint_t *list)
