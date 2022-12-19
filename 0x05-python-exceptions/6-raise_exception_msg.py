@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 def raise_exception_msg(message=""):
-    raise Nameerror("{:s}".format(message))
+    raise NameError("{:s}".format(message))
