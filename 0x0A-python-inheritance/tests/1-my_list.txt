@@ -39,6 +39,7 @@ Or a single argument, which must be an iterable object.
     Traceback (most recent call last):
     TypeError: 'NoneType' object is not iterable
 
+
 A ``TypeError`` will be raised for any more than one instantiation arguments.
 
 ::
